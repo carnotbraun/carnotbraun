@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/carnotbraun">
-  <div style="display: flex, flex-wrap:nowrap">
+  <div style="display: flex;flex-wrap:nowrap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carnotbraun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carnotbraun&layout=compact&langs_count=7&theme=dracula"/>
   </div>
