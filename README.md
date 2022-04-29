@@ -1,6 +1,6 @@
 # Carnot Braun
-- 🔭 Working on Data Science at SEFA
-- 🌱 Currently studying Big Data and Machine Learning
+- 🔭 Working on Data Analytics at SEFA
+- 🌱 Currently studying Big Data, SQL and Machine Learning.
 
 <div align="center">
   <a href="https://github.com/carnotbraun">
