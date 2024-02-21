@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Big Data Frameworks, Federated Learning**
 
 - 📫 How to reach me **carnotbraun@gmail.com**
+  
+- 📚 I am currently in the **Master's degree in Computer Science, with an emphasis on Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
